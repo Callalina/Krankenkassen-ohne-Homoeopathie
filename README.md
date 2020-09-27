@@ -1,13 +1,13 @@
 # Krankenkassen ohne Homöopathie
-Hier stehen die Krankenkassen die keine Homöopathie anbieten <br/>
+Hier stehen die Krankenkassen, die keine Homöopathie anbieten <br/>
 
-EDIT: Ich wurde darauf hingewiesen das es bereits eine Liste über Homöopathiefreie Krankenkassen gibt. Diese enthält mehr Daten und detailliertere Informationen: https://www.xn--homopedia-27a.eu/index.php/Artikel:Krankenkassen
+EDIT: Ich wurde darauf hingewiesen, dass es bereits eine Liste über homöopathiefreie Krankenkassen gibt. Diese enthält mehr Daten und detailliertere Informationen: https://www.xn--homopedia-27a.eu/index.php/Artikel:Krankenkassen
 
-Hier sollten alle Krankenkassen aufgelistet werden die keine Homöopathie anbieten. Diese Liste ist nicht vollständig! Aus diesem Grund wird um Mitarbeit gebeten, wenn jemand Krankenkassen kennt, die Homöopathie nicht anbieten bitte dies per Pull request oder an die E-mail kaeptenheinz@gmail.com.<br/>
+Hier sollten alle Krankenkassen aufgelistet werden, die keine Homöopathie anbieten. Diese Liste ist nicht vollständig! Aus diesem Grund wird um Mitarbeit gebeten. Wenn jemand Krankenkassen kennt, die Homöopathie nicht anbieten, bitte dies per Pull request oder an die E-mail kaeptenheinz@gmail.com.<br/>
 
-Wenn ihr die Krankenkasse wechselt teilt der Krankenkasse wo ihr vorher wart mit, wesswegen ihr Wechselt und der Krankenkasse wohin ihr wechselt auch. Denn nur so kann gezeigt werden das Homöopathie Kritiker eine Marktmacht besitzen. Ich empfehle alles Außer Telefon als Kommunikationsmittel da nach meiner Erfahrung (bei der Recherche) zu meist eine Person den Anruf entgegen nimmt die der Homöopathie eher positiv eingestellt ist und vileicht deswegen dies nicht weiter Kommunizieren könnte(Egal welche Krankenkasse).
+Wenn ihr die Krankenkasse wechselt, teilt der Krankenkasse wo ihr vorher wart mit, weswegen ihr wechselt und der Krankenkasse wohin ihr wechselt auch. Nur so kann gezeigt werden, dass Homöopathiekritiker eine Marktmacht besitzen. Ich empfehle alles außer Telefon als Kommunikationsmittel, da nach meiner Erfahrung (bei der Recherche) zumeist eine Person den Anruf entgegennimmt, die der Homöopathie eher positiv eingestellt ist und vielleicht deswegen dies nicht weiter kommunizieren könnte (egal welche Krankenkasse).
 
-Weil viele Krankenkassen Ihre Beiträge erhöht haben ist es möglich bei diesen eine Sonderkündigung zu machen[11].
+Weil viele Krankenkassen ihre Beiträge erhöht haben, ist es möglich, bei diesen eine Sonderkündigung zu machen[11].
 
 #### Aktuell bestätigt sind folgende Krankenkassen:<br/>
 
@@ -62,7 +62,7 @@ Westfalen-Lippe: <br/>
 -Siemag BKK [2] (8) <br/>
 <br/>
 <br/>
-####  Folgende Krankenkasse Bieten keine oder nur wenig "Alternativ Medizinische"(aka Keine Echte Medizin) Behandlung/Mittel an.(wenn statt "keine Behandlungen" nur "wenig Behandlungen" wird in Klammer darauf eingegangen)  
+####  Folgende Krankenkasse bieten keine oder nur wenig "Alternativ Medizinische"(aka Keine Echte Medizin) Behandlungen/Mittel an.(wenn statt "keine Behandlungen" nur "wenig Behandlungen" wird in Klammern darauf eingegangen)  
 <br/>
 Bundesweit: <br/>
 -KKH [2] (1)  (Keine "Alternativ Medizinische" Behandlung/Mittel außer über ein Bonus Programm [4])<br/>
@@ -141,16 +141,16 @@ Schleswig-Holstein: <br/>
 ####   Fußnoten
 
 <br/>
-(1) Über ein Bonus Programm welches 180€ für Heilpraktiker Leistungen zur Verfügung stellt können Alternativmedizinische Behandlungen in Anspruch genommen werden wie z.B. Homöopathie [4] <br/>
-(2) Alternativ Medizin (inklusive Homöopathie) kann bis zu 100€ pro Kalenderjahr erstattet werden [6]. <br/>
-(3) Kinder und Schwangere können Homöopathische "Arzneimitteln" bis zu 80% max 25 € rückerstattet bekommen. In Ausnahme Fällen ist die Übernahme von Homöopathischen Mitteln vom Arzt möglich [7]. <br/>
-(4) Seit 2019  entfällt Arzneimittel der Homöopathie, Phytotherapie und Anthroposophie bis zu 100  [8]. <br/>
-(5) Nur von Ärzten mit einer homöopathischen Medizinischen Ausbildung [5] <br/>
-(6) Homöopathie nur für Kinder im Centrum für Gesundheit Berlin(diese Praxis ist seit Moanaten jedoch unbesetzt) [2]  <br/>
-(7) 80% bis 500 € " Voraussetzung ist, dass diese nicht verschreibungspflichtigen, apothekenpflichtigen Arzneimittel der Homöopathie, Phytotherapie und der Anthroposophie von einem Arzt per Privatrezept verschrieben wurden." [10] <br/>
-(8) 360 Euro bei Osteopathie Behandlung pro Jahr <br/>
-(9) Übernahme von 90 % der Kosten für Homöopathie als privaten Ergänzungstarif für ambulante Leistungen<br/>
-(10) Nur eine wage Angabe zu Homöopathischen Leistungen
+(1) Über ein Bonusprogramm, welches 180€ für Heilpraktikerleistungen zur Verfügung stellt, können alternativmedizinische Behandlungen in Anspruch genommen werden, wie z.B. Homöopathie [4] <br/>
+(2) Alternativmedizin (inklusive Homöopathie) kann bis zu 100€ pro Kalenderjahr erstattet werden [6]. <br/>
+(3) Kinder und Schwangere können homöopathische "Arzneimittel" bis zu 80% max 25 € rückerstattet bekommen. In Ausnahmefällen ist die Übernahme von homöopathischen Mitteln vom Arzt möglich [7]. <br/>
+(4) Seit 2019  entfallen Arzneimittel der Homöopathie, Phytotherapie und Anthroposophie bis zu 100  [8]. <br/>
+(5) Nur von Ärzten mit einer homöopathischen medizinischen Ausbildung [5] <br/>
+(6) Homöopathie nur für Kinder im Centrum für Gesundheit Berlin (diese Praxis ist seit Monaten jedoch unbesetzt) [2]  <br/>
+(7) 80% bis 500 € "Voraussetzung ist, dass diese nicht verschreibungspflichtigen, apothekenpflichtigen Arzneimittel der Homöopathie, Phytotherapie und der Anthroposophie von einem Arzt per Privatrezept verschrieben wurden." [10] <br/>
+(8) 360 Euro bei Osteopathiebehandlung pro Jahr <br/>
+(9) Übernahme von 90 % der Kosten für Homöopathie als privater Ergänzungstarif für ambulante Leistungen<br/>
+(10) Nur eine vage Angabe zu homöopathischen Leistungen
 <br/>
 
 ####   Quellen:
